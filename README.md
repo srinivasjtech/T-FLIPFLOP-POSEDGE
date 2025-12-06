@@ -63,10 +63,12 @@ RegisterNumber:25015562
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+
 <img width="1016" height="794" alt="Screenshot 2025-11-22 220105" src="https://github.com/user-attachments/assets/74b1f3c6-28d0-4916-abe0-9b1ebed57662" />
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 
 <img width="1465" height="415" alt="Screenshot 2025-11-22 220118" src="https://github.com/user-attachments/assets/a9c45710-0799-4f29-8017-dabd64f3ae81" />
 
